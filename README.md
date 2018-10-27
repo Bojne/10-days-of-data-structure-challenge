@@ -16,6 +16,7 @@ All the resources I use will be open source, and any student (or professional) i
 #### Resources
 * [Brilliant ComSci fundamental Course](https://brilliant.org/courses/computer-science-fundamentals/heaps-2)
 * [Udacity ud513: Data Structures with Python](https://classroom.udacity.com/courses/ud513/)
+* [Visualize Data Structure](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## Day 2
 #### Goal
