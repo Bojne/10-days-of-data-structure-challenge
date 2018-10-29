@@ -22,6 +22,7 @@ All the resources I use will be open source, and any student (or professional) i
 #### Goal
 Review how heaps work on a low level.
 #### Resources
+* [Visualizing Sorting](https://visualgo.net/bn/sorting)
 
 
 ## Day 3

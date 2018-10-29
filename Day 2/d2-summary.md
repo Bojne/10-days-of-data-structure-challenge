@@ -1,0 +1,1 @@
+- a balanced tree is key to an efficient search algorithm, and will lead to the fastest runtime.
