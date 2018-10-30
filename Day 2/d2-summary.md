@@ -5,7 +5,7 @@
 - a balanced tree is key to an efficient search algorithm, and will lead to the fastest runtime.
 
 ## (Max)Heap Insertion 
-Run time: $$ O(\log n) $$
+Run time: O(log(n))  # height of the tree = log(n)
 1. Add the new key to the last leaf.
 2. Compare the node with its parent node
 3. If child node is bigger, switch the node with parent node.
